@@ -1,4 +1,4 @@
-# Purpose of Project_1
+# ABV & IBU: Exploration of Beers in R Statistical Programming
 https://rpubs.com/blue_2000sk/1008320  
 ABV &amp; IBU: Exploration of Beers  
 Good Evening, Brendan (CEO) and Ricardo (CFO).  
